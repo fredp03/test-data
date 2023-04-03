@@ -1,0 +1,343 @@
+{
+    "Raw Data": [
+        {
+            "Trap 1": "TRACK",
+            "__EMPTY": "DIST",
+            "__EMPTY_1": "SPLIT",
+            "__EMPTY_2": "TIME"
+        },
+        {
+            "Trap 1": "Romford",
+            "__EMPTY": "400m",
+            "__EMPTY_1": 3.9,
+            "__EMPTY_2": 24.95
+        },
+        {
+            "Trap 1": "Romford",
+            "__EMPTY": "400m",
+            "__EMPTY_1": 3.95,
+            "__EMPTY_2": 25.25
+        },
+        {
+            "Trap 1": "Romford",
+            "__EMPTY": "400m",
+            "__EMPTY_1": 3.82,
+            "__EMPTY_2": 24.97
+        },
+        {
+            "Trap 1": "Romford",
+            "__EMPTY": "400m",
+            "__EMPTY_1": 3.86,
+            "__EMPTY_2": 25.35
+        },
+        {
+            "Trap 1": "Romford",
+            "__EMPTY": "400m",
+            "__EMPTY_1": 3.83,
+            "__EMPTY_2": 24.69
+        },
+        {
+            "Trap 1": "Romford",
+            "__EMPTY": "400m",
+            "__EMPTY_1": 3.87,
+            "__EMPTY_2": 24.66
+        },
+        {
+            "Trap 1": "Romford",
+            "__EMPTY": "400m",
+            "__EMPTY_1": 4.02,
+            "__EMPTY_2": 25.27
+        },
+        {
+            "Trap 1": "Romford",
+            "__EMPTY": "400m",
+            "__EMPTY_1": 3.93,
+            "__EMPTY_2": 25.36
+        },
+        {
+            "Trap 1": "Trap 2"
+        },
+        {
+            "Trap 1": "TRACK",
+            "__EMPTY": "DIST",
+            "__EMPTY_1": "SPLIT",
+            "__EMPTY_2": "TIME"
+        },
+        {
+            "Trap 1": "Romford",
+            "__EMPTY": "400m",
+            "__EMPTY_1": 3.94,
+            "__EMPTY_2": 25.09
+        },
+        {
+            "Trap 1": "Romford",
+            "__EMPTY": "400m",
+            "__EMPTY_1": 3.91,
+            "__EMPTY_2": 25.13
+        },
+        {
+            "Trap 1": " ",
+            "__EMPTY": " ",
+            "__EMPTY_1": " ",
+            "__EMPTY_2": " "
+        },
+        {
+            "Trap 1": " ",
+            "__EMPTY": " ",
+            "__EMPTY_1": " ",
+            "__EMPTY_2": " "
+        },
+        {
+            "Trap 1": " ",
+            "__EMPTY": " ",
+            "__EMPTY_1": " ",
+            "__EMPTY_2": " "
+        },
+        {
+            "Trap 1": " ",
+            "__EMPTY": " ",
+            "__EMPTY_1": " ",
+            "__EMPTY_2": " "
+        },
+        {
+            "Trap 1": " ",
+            "__EMPTY": " ",
+            "__EMPTY_1": " ",
+            "__EMPTY_2": " "
+        },
+        {
+            "Trap 1": " ",
+            "__EMPTY": " ",
+            "__EMPTY_1": " ",
+            "__EMPTY_2": " "
+        },
+        {
+            "Trap 1": "Trap 3"
+        },
+        {
+            "Trap 1": "TRACK",
+            "__EMPTY": "DIST",
+            "__EMPTY_1": "SPLIT",
+            "__EMPTY_2": "TIME"
+        },
+        {
+            "Trap 1": "Romford",
+            "__EMPTY": "400m",
+            "__EMPTY_1": 3.92,
+            "__EMPTY_2": 25.34
+        },
+        {
+            "Trap 1": "Romford",
+            "__EMPTY": "400m",
+            "__EMPTY_1": 3.9,
+            "__EMPTY_2": 25.09
+        },
+        {
+            "Trap 1": "Romford",
+            "__EMPTY": "400m",
+            "__EMPTY_1": 3.81,
+            "__EMPTY_2": 24.64
+        },
+        {
+            "Trap 1": "Romford",
+            "__EMPTY": "400m",
+            "__EMPTY_1": 3.84,
+            "__EMPTY_2": 25.64
+        },
+        {
+            "Trap 1": "Romford",
+            "__EMPTY": "400m",
+            "__EMPTY_1": 3.89,
+            "__EMPTY_2": 24.92
+        },
+        {
+            "Trap 1": "Romford",
+            "__EMPTY": "400m",
+            "__EMPTY_1": 3.75,
+            "__EMPTY_2": 24.64
+        },
+        {
+            "Trap 1": "Romford",
+            "__EMPTY": "400m",
+            "__EMPTY_1": 3.91,
+            "__EMPTY_2": 25.33
+        },
+        {
+            "Trap 1": "Romford",
+            "__EMPTY": "400m",
+            "__EMPTY_1": 3.88,
+            "__EMPTY_2": 24.84
+        },
+        {
+            "Trap 1": "Trap 4"
+        },
+        {
+            "Trap 1": "TRACK",
+            "__EMPTY": "DIST",
+            "__EMPTY_1": "SPLIT",
+            "__EMPTY_2": "TIME"
+        },
+        {
+            "Trap 1": "Romford",
+            "__EMPTY": "400m",
+            "__EMPTY_1": 3.86,
+            "__EMPTY_2": 24.86
+        },
+        {
+            "Trap 1": "Romford",
+            "__EMPTY": "400m",
+            "__EMPTY_1": 3.91,
+            "__EMPTY_2": 24.97
+        },
+        {
+            "Trap 1": "Romford",
+            "__EMPTY": "400m",
+            "__EMPTY_1": 3.88,
+            "__EMPTY_2": 24.88
+        },
+        {
+            "Trap 1": "Romford",
+            "__EMPTY": "400m",
+            "__EMPTY_1": 3.86,
+            "__EMPTY_2": 24.89
+        },
+        {
+            "Trap 1": "Romford",
+            "__EMPTY": "400m",
+            "__EMPTY_1": 3.91,
+            "__EMPTY_2": 25.16
+        },
+        {
+            "Trap 1": "Romford",
+            "__EMPTY": "400m",
+            "__EMPTY_1": 3.83,
+            "__EMPTY_2": 24.56
+        },
+        {
+            "Trap 1": "Romford",
+            "__EMPTY": "400m",
+            "__EMPTY_1": 3.89,
+            "__EMPTY_2": 25.29
+        },
+        {
+            "Trap 1": "Romford",
+            "__EMPTY": "400m",
+            "__EMPTY_1": 3.89,
+            "__EMPTY_2": 24.58
+        },
+        {
+            "Trap 1": "Trap 5"
+        },
+        {
+            "Trap 1": "TRACK",
+            "__EMPTY": "DIST",
+            "__EMPTY_1": "SPLIT",
+            "__EMPTY_2": "TIME"
+        },
+        {
+            "Trap 1": "Romford",
+            "__EMPTY": "400m",
+            "__EMPTY_1": 3.79,
+            "__EMPTY_2": 24.48
+        },
+        {
+            "Trap 1": "Romford",
+            "__EMPTY": "400m",
+            "__EMPTY_1": 3.83,
+            "__EMPTY_2": 24.79
+        },
+        {
+            "Trap 1": "Romford",
+            "__EMPTY": "400m",
+            "__EMPTY_1": 3.83,
+            "__EMPTY_2": 24.83
+        },
+        {
+            "Trap 1": "Romford",
+            "__EMPTY": "400m",
+            "__EMPTY_1": 3.93,
+            "__EMPTY_2": 24.82
+        },
+        {
+            "Trap 1": "Romford",
+            "__EMPTY": "400m",
+            "__EMPTY_1": 3.96,
+            "__EMPTY_2": 25.21
+        },
+        {
+            "Trap 1": "Romford",
+            "__EMPTY": "400m",
+            "__EMPTY_1": 4.08,
+            "__EMPTY_2": 25
+        },
+        {
+            "Trap 1": "Romford",
+            "__EMPTY": "400m",
+            "__EMPTY_1": 3.94,
+            "__EMPTY_2": 25.21
+        },
+        {
+            "Trap 1": "Romford",
+            "__EMPTY": "400m",
+            "__EMPTY_1": 3.76,
+            "__EMPTY_2": 24.7
+        },
+        {
+            "Trap 1": "Trap 6"
+        },
+        {
+            "Trap 1": "TRACK",
+            "__EMPTY": "DIST",
+            "__EMPTY_1": "SPLIT",
+            "__EMPTY_2": "TIME"
+        },
+        {
+            "Trap 1": "Romford",
+            "__EMPTY": "400m",
+            "__EMPTY_1": 3.84,
+            "__EMPTY_2": 25.11
+        },
+        {
+            "Trap 1": "Romford",
+            "__EMPTY": "400m",
+            "__EMPTY_1": 3.89,
+            "__EMPTY_2": 24.92
+        },
+        {
+            "Trap 1": "Romford",
+            "__EMPTY": "400m",
+            "__EMPTY_1": 3.88,
+            "__EMPTY_2": 25.35
+        },
+        {
+            "Trap 1": "Romford",
+            "__EMPTY": "400m",
+            "__EMPTY_1": 3.89,
+            "__EMPTY_2": 25.38
+        },
+        {
+            "Trap 1": "Romford",
+            "__EMPTY": "400m",
+            "__EMPTY_1": 3.9,
+            "__EMPTY_2": 25.08
+        },
+        {
+            "Trap 1": "Romford",
+            "__EMPTY": "400m",
+            "__EMPTY_1": 3.82,
+            "__EMPTY_2": 24.9
+        },
+        {
+            "Trap 1": "Romford",
+            "__EMPTY": "400m",
+            "__EMPTY_1": 3.87,
+            "__EMPTY_2": 24.71
+        },
+        {
+            "Trap 1": "Romford",
+            "__EMPTY": "400m",
+            "__EMPTY_1": 3.83,
+            "__EMPTY_2": 24.92
+        }
+    ]
+}
