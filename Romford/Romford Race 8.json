@@ -1,0 +1,343 @@
+{
+    "Raw Data": [
+        {
+            "Trap 1": "TRACK",
+            "__EMPTY": "DIST",
+            "__EMPTY_1": "SPLIT",
+            "__EMPTY_2": "TIME"
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.53,
+            "__EMPTY_2": 29.36
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.7,
+            "__EMPTY_2": 29.32
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.59,
+            "__EMPTY_2": 29.49
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.66,
+            "__EMPTY_2": 29.3
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.51,
+            "__EMPTY_2": 29.49
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.61,
+            "__EMPTY_2": 29.2
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.68,
+            "__EMPTY_2": 29.42
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.55,
+            "__EMPTY_2": 29.33
+        },
+        {
+            "Trap 1": "Trap 2"
+        },
+        {
+            "Trap 1": "TRACK",
+            "__EMPTY": "DIST",
+            "__EMPTY_1": "SPLIT",
+            "__EMPTY_2": "TIME"
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.42,
+            "__EMPTY_2": 29.48
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.43,
+            "__EMPTY_2": 29.41
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.47,
+            "__EMPTY_2": 30.37
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.34,
+            "__EMPTY_2": 29.44
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.46,
+            "__EMPTY_2": 29.56
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.51,
+            "__EMPTY_2": 29.87
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.52,
+            "__EMPTY_2": 29.85
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.5,
+            "__EMPTY_2": 30.43
+        },
+        {
+            "Trap 1": "Trap 3"
+        },
+        {
+            "Trap 1": "TRACK",
+            "__EMPTY": "DIST",
+            "__EMPTY_1": "SPLIT",
+            "__EMPTY_2": "TIME"
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.5,
+            "__EMPTY_2": 29.69
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.54,
+            "__EMPTY_2": 29.21
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.52,
+            "__EMPTY_2": 29.71
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.45,
+            "__EMPTY_2": 29.31
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.59,
+            "__EMPTY_2": 30.07
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.53,
+            "__EMPTY_2": 29.25
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.51,
+            "__EMPTY_2": 29.41
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.48,
+            "__EMPTY_2": 30.31
+        },
+        {
+            "Trap 1": "Trap 4"
+        },
+        {
+            "Trap 1": "TRACK",
+            "__EMPTY": "DIST",
+            "__EMPTY_1": "SPLIT",
+            "__EMPTY_2": "TIME"
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.49,
+            "__EMPTY_2": 29.79
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.6,
+            "__EMPTY_2": 29.71
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.43,
+            "__EMPTY_2": 29.89
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.51,
+            "__EMPTY_2": 29.62
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.54,
+            "__EMPTY_2": 29.64
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.58,
+            "__EMPTY_2": 29.67
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.51,
+            "__EMPTY_2": 29.73
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.52,
+            "__EMPTY_2": 30.61
+        },
+        {
+            "Trap 1": "Trap 5"
+        },
+        {
+            "Trap 1": "TRACK",
+            "__EMPTY": "DIST",
+            "__EMPTY_1": "SPLIT",
+            "__EMPTY_2": "TIME"
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.51,
+            "__EMPTY_2": 29.48
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.59,
+            "__EMPTY_2": 29.68
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.7,
+            "__EMPTY_2": 29.55
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.52,
+            "__EMPTY_2": 29.33
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.51,
+            "__EMPTY_2": 29.65
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.55,
+            "__EMPTY_2": 29.33
+        },
+        {
+            "Trap 1": " ",
+            "__EMPTY": " ",
+            "__EMPTY_1": " ",
+            "__EMPTY_2": " "
+        },
+        {
+            "Trap 1": " ",
+            "__EMPTY": " ",
+            "__EMPTY_1": " ",
+            "__EMPTY_2": " "
+        },
+        {
+            "Trap 1": "Trap 6"
+        },
+        {
+            "Trap 1": "TRACK",
+            "__EMPTY": "DIST",
+            "__EMPTY_1": "SPLIT",
+            "__EMPTY_2": "TIME"
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.6,
+            "__EMPTY_2": 29.77
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.52,
+            "__EMPTY_2": 29.98
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.47,
+            "__EMPTY_2": 29.79
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.51,
+            "__EMPTY_2": 29.77
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.48,
+            "__EMPTY_2": 29.32
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.59,
+            "__EMPTY_2": 30.35
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.6,
+            "__EMPTY_2": 30.03
+        },
+        {
+            "Trap 1": "Monmore",
+            "__EMPTY": "480m",
+            "__EMPTY_1": 4.65,
+            "__EMPTY_2": 29.85
+        }
+    ]
+}
